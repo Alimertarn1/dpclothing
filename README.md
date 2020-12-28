@@ -1,2 +1,2 @@
 # dpclothing
-Yeni kıyafet değiştirme menüsü
+DPclothing Kıyafet Menusu
