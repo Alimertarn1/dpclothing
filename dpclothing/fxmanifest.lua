@@ -1,4 +1,5 @@
 fx_version 'bodacious'
+description 'KZSYSTEM Development
 game 'gta5'
 
 client_scripts {
